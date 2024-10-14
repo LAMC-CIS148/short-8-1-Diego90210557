@@ -72,6 +72,7 @@ article h2 {
 article img {
 	float: right;
 	margin: .5em 0 1em 1em;
+	width:always 50%;
 	border: 1px solid black;
 }
 
